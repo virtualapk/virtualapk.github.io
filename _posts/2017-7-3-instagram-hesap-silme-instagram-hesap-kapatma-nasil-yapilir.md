@@ -2,6 +2,7 @@
 layout: post
 title: İnstagram Hesap Silme: İnstagram Hesap Kapatma Nasıl Yapılır?
 ---
+
 İnstagram ile ilgili ikinci konumuz olan bu makalede Hesap Silme yani İnstagram Hesap Kapatma işleminin nasıl yapılırlığından bahsedeceğiz. Hesap silme/kapatma işlemi geçici ve süresiz olmak üzere ikiye ayrılıyor. Biz bu sayfamızda asıl amacı instagram hesabını tamamen kapatmak olanlara yönelik talimatlardan bahsedeceğiz. Zaten her ikisi seçenek de aynı sayfada bulunduğu için pek bir fark yok. Lafı uzatmadan talimatlara geçelim.
 
 İnstagram uygulamasının web sitesini açın.
