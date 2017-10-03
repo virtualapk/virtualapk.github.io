@@ -14,19 +14,19 @@ Gerekli temel bilgileri sizinle paylaştık. Şimdi direk bağlanma adımlarına
 
 Faturasız hatlar için:
 
-<ol>
+<ul>
 <li>532 numarasını arayın.</li>
 <li>Bağlantı sağlandıktan sonra 1 tuşuna basın.</li>
 <li>Daha sonra 0 tuşuna basın.</li>
-</ol>
+</ul>
 
 Faturalı hatlar için:
 
-<ol>
+<ul>
 <li>532 numarasını arayın.</li>
 <li>Bağlantı gerçekleştiyse 2 tuşuna basın.</li>
 <li>Tekrar 2 tuşuna basın.</li>
-</ol>
+</ul>
 Yaşadığınız herhangi olumsuz durumu yorum yaparak bize iletebilirsiniz.
 
 Superonline Müşteri Hizmetlerine Direk Bağlanma
