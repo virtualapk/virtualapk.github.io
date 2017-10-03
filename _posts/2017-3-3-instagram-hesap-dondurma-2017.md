@@ -1,3 +1,8 @@
+---
+layout: post
+title: İnstagram Hesap Dondurma 2017
+---
+
 Bu yazımızda sizlerle en kolay şekilde İnstagram Hesap Dondurma 2017 yöntemini paylaşacağız. Bir önceki yazımız olan İnstagram Hesap Kapatma konusunda hesabı silmeyi anlatmıştık. Hesap dondurma da en az onun kadar kolay bir işlem. Bu anlatacağımız işlemi telefondan veya bilgisayardan bir web tarayıcısı ile yapabilirsiniz. Instagram uygulaması ile de aynı talimatları uygulayabilirsiniz. Ayrıca uygulama için başka bir konuda resimli anlatım yapacağız. Şimdilik tarayıcıdan nasıl yapıldığını anlatalım.
 
 
