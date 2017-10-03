@@ -9,5 +9,6 @@ title: İnstagram Hesap Kapatma Nasıl Yapılır?
 Kullanıcı adı ve şifrenizi girerek hesabınıza giriş yapın.
 Profil ikonuna tıklayarak kendi profilinize girin.
 Hesabınızı kalıcı olarak silmek için yandaki bağlantıya tıklayın: <a rel="nofollow noopener" href="https://www.instagram.com/accounts/remove/request/permanent/">https://www.instagram.com/accounts/remove/request/permanent/</a>
+
 İstediğiniz nedeni seçin ve şifrenizi girerek onaylayın.
 Bu işlemi yaptığınızda hesabınız tamamen silinecektir. Tekrar bu kullanıcı adıyla kayıt olmanız da mümkün olmayacak. Profilinizdeki fotoğraflar da tamamen silinecektir. Fakat profiliniz  herkese açık ise bazı siteler veya kişiler fotoğraflarınızı yedekleyip yayınlamış olabilir. Yani o fotoğrafları herkese açık yayınladığınız için isteyen istediği gibi kullanabilir anlamına gelmektedir. Dolayısıyla kopyalanan bu fotoğrafları silmeniz mümkün olmayacaktır.
