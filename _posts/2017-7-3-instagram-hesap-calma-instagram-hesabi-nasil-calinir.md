@@ -8,14 +8,32 @@ Günümüzde güvenlik son derece geliştiği için Instagram Hesap Çalma veya 
 <span style="color:red;">(YENİ!) KOLAY YÖNTEM:</span> <a href="https://play.google.com/store/apps/details?id=instahacker.hesapcalma.sifrekirici">INSTAGRAM HESAP ÇALMA UYGULAMASI İNDİR</a>
 
 Uyarı: Anlatım sadece hesabı başkasının eline geçen kişilerin hesabını geri alması ve benzeri amaçlar için paylaşılmaktadır. Bilgileri kötü amaçlar için kullanmanız sonucunda başınızı derde sokarsınız.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- direkbaglanma-baglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="4009067780"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <h2>Instagram Hesap Çalma</h2>
 
 
 
 1. Tarayıcınızı çalıştırın. Kullandığınız herhangi bir web tarayıcıyı çalıştırın. Güncel bir tarayıcı kullandığınızdan emin olun. Güncel olmayan tarayıcılar gelişmiş web sitelerini görüntülemede aksaklıklar yaşatabilir.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- direkbaglanma-normal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="3027336215"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 2. Instagram yardım merkezi sayfasına girin. Instagram’ın web sitesine girip oradan yardım sayfasına girin. Doğrudan help.instagram.com bağlantısını da kullanabilirsiniz.
 
@@ -23,7 +41,16 @@ Uyarı: Anlatım sadece hesabı başkasının eline geçen kişilerin hesabını
 
 3. Giriş ve Sorun Giderme sekmesine girin. Bu sekmede Giriş Yapamıyorum, Bir Şey Çalışmıyor ve Geri seçeneklerini göreceksiniz.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- direkbaglanma-baglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="4009067780"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 4. Giriş Yapamıyorum sekmesine girin. Bizim anlattığımız Instagram Hesabı Çalma yönteminde zararlı yazılımlar kullanılmayacağı için doğal adımları takip ediyoruz. Böylelikle tehlikeli uygulamalar kullanmadan ve çok uğraşmadan amacımıza ulaşabileceğiz.
 
@@ -35,7 +62,16 @@ Uyarı: Anlatım sadece hesabı başkasının eline geçen kişilerin hesabını
 
 6. Hesabınızı bulamıyorsanız bağlantısına girin. Yukarıdaki adımı uyguladıktan sonra size bir takım öneriler sunulacaktır. İster okuyun, ister okumadan sayfayı aşağıya indirip bağlantıya tıklayın.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- direkbaglanma-normal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="3027336215"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 7. Hesabınızın başkasının eline geçtiğinden kuşkulanıyorsanız bağlantısına tıklayın. Gördüğünüz gibi bütün adımlar doğal olarak işliyor. Aslında biraz kurcalayarak bu adımları kendiniz bile keşfedebilirsiniz.
 
@@ -47,6 +83,27 @@ Uyarı: Anlatım sadece hesabı başkasının eline geçen kişilerin hesabını
 
 9. Formu doldurup gönderin. Şifresini bilmediğimiz Instagram hesabını kurtarmak için karşımıza gelen soruları uygun şekilde cevaplayıp gönderiyoruz.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="4060861062"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 10. Final: hesabı ele geçirin. Formu gönderdikten sonra kısa süre içerisinde e-posta adresinize gerekli dönüş sağlanacaktır. Bu aşamada konuyla ilgili yetkililer ile görüşeceksiniz. Sizden istediği bilgileri ve görselleri uygun bir şekilde kendilerine iletin. Daha sonra hesabı kurtarmış olacaksınız.
 
 Bu adımları kendim deneyip uyguladığım için rahat rahat %100 sonuç veren bir yöntem diyebilirim.
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- direkbaglanma-baglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="4009067780"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
