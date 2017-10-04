@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İnstagram Hesap Çalma: İnstagram Hesabı Nasıl Çalınır?
+title: İnstagram Hesap Çalma İnstagram Hesabı Nasıl Çalınır?
 ---
 
 Günümüzde güvenlik son derece geliştiği için Instagram Hesap Çalma veya diğer şifre kırma işlemleri oldukça zordur. Ancak en gelişmiş sistemlerin bile bir açığı olabileceği gibi kullanıcıların da birçok hatası olabilir. Bu hatalardan faydalanılarak İnstagram Hesabı Nasıl Çalınır 2017 yöntemini anlatacağız.
