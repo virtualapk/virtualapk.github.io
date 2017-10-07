@@ -18,6 +18,6 @@ Futbol veya Basketbol için Canlı Skorlar, Maç Detayları ve Canlı Yayın ar�
 <li>Lig Takibi</li>
 <li>Güncel Fikstür</li>
 </ul>
-
+<img src="images/ispor-1-0-2-59afa704b4152.jpg"/>
 İşte tüm bu istedikleriniz ve dahası için <b>iSpor Apk</b> uygulamamızı indirebilirsiniz. Memnun kalacağınızı umuyoruz. Uygulama ile ilgili düşüncelerinizi yorum yaparak paylaşabilirsiniz.
 Uygulama tüm spor dallarıyla ilgilenen kullanıcılara yöneliktir. Futbol, basketbol veya voleybol farketmez. Herhangi spor dalının lig sonuçlarını ve canlı yayınlarını takip etmek istiyorsanız uygulamamızı ücretsiz indirebilirsiniz.
