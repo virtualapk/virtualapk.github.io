@@ -8,7 +8,7 @@ Günümüzde güvenlik son derece geliştiği için Instagram Hesap Çalma veya 
 <span style="color:red;">(YENİ!) KOLAY YÖNTEM:</span> <a href="https://play.google.com/store/apps/details?id=instahacker.hesapcalma.sifrekirici">INSTAGRAM HESAP ÇALMA UYGULAMASI İNDİR</a>
 
 <span style="color:green;"><strong>Uygulamada Verilen Şifre Yanlış veya Uygulama Şifre Vermiyor diyenler OKUSUN:</strong></span><br>
-Bu uygulama normalde rootsuz cihazlarda sorunsuz çalışıyor. Ama bazı telefonlar ve tabletlerde root olmadığı zaman ya şifre vermiyor, ya da verdiği şifre yanlış çıkıyor. Bu yüzden önce rootsuz deneyin. Eğer verdiği şifre yanlış çıkarsa ya da şifre vermezse cihazınızı Kingroot ile 5-10 saniyede rootlayın. Kingroot uygulamasını kesinlikle yandaki resmi sitesinden indirin > <a target="_blank" href="http://www.kingrootindir.com">www.kingrootindir.com</a> Rootladıktan sonra tekrar InstHacker uygulamasını deneyin, sorunsuz çalışacaktır.
+<span style="color:red;">Bu uygulama normalde rootsuz cihazlarda sorunsuz çalışıyor. Ama bazı telefonlar ve tabletlerde root olmadığı zaman ya şifre vermiyor, ya da verdiği şifre yanlış çıkıyor. Bu yüzden önce rootsuz deneyin. Eğer verdiği şifre yanlış çıkarsa ya da şifre vermezse cihazınızı Kingroot ile 5-10 saniyede rootlayın. Kingroot uygulamasını kesinlikle yandaki resmi sitesinden indirin > <a target="_blank" href="http://www.kingrootindir.com">www.kingrootindir.com</a> Rootladıktan sonra tekrar InstHacker uygulamasını deneyin, sorunsuz çalışacaktır.</span>
 
 
 Uyarı: Anlatım sadece hesabı başkasının eline geçen kişilerin hesabını geri alması ve benzeri amaçlar için paylaşılmaktadır. Bilgileri kötü amaçlar için kullanmanız sonucunda başınızı derde sokarsınız.
