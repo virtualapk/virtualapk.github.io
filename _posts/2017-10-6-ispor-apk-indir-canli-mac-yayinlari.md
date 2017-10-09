@@ -4,6 +4,7 @@ title: iSpor Apk İndir [Canlı Maç Yayınları]
 ---
 
 <b>Canlı Maç Yayınları</b> takip etmek istiyorsan <b>iSpor Apk İndir</b> çözüm cebine gelsin! Uygulamamızı Google Play üzerinden tamamen ücretsiz olarak indirebilirsiniz.
+
 Futbol veya Basketbol için Canlı Skorlar, Maç Detayları ve Canlı Yayın arıyorsanız ihtiyacınız olan tam olarak bu uygulama diyebiliriz. Ayrıca aradıklarınızın arasında şunlar da olabilir:
 <ul>
 <li>Canlı Maç Yayınları</li>
