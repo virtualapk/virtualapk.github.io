@@ -5,10 +5,11 @@ title: İnstagram Hesap Çalma - İnstagram Hesabı Nasıl Çalınır?
 
 Günümüzde güvenlik son derece geliştiği için Instagram Hesap Çalma veya diğer şifre kırma işlemleri oldukça zordur. Ancak en gelişmiş sistemlerin bile bir açığı olabileceği gibi kullanıcıların da birçok hatası olabilir. Bu hatalardan faydalanılarak İnstagram Hesabı Nasıl Çalınır 2017 yöntemini anlatacağız.
 
-<span style="color:red;">(YENİ!) KOLAY YÖNTEM:</span> <a href="https://play.google.com/store/apps/details?id=com.wifisifrekirici.simulator">INSTAGRAM HESAP ÇALMA UYGULAMASI İNDİR</a> (Uygulama ismine takılmayın, uygulamanın içinde ayarlar sayfasında gerekli yerleri seçin)
+<span style="color:red;">(YENİ!) KOLAY YÖNTEM:</span> <a href="https://play.google.com/store/apps/details?id=com.wifisifrekirici.simulator">INSTAGRAM HESAP ÇALMA UYGULAMASI İNDİR</a>
+(Uygulamanın playstore ismine takılmayın, uygulamanın içinde ayarlar sayfasında "InsWar" yazan yeri seçin)
 
-<span style="color:green;">Uygulamada Verilen Şifre Yanlış veya Uygulama Şifre Vermiyor diyenler OKUSUN:</span><br>
-<span style="color:red;">Bu uygulama normalde rootsuz cihazlarda sorunsuz çalışıyor. Ama bazı telefonlar ve tabletlerde root olmadığı zaman ya şifre vermiyor, ya da verdiği şifre yanlış çıkıyor. Bu yüzden önce rootsuz deneyin. Eğer verdiği şifre yanlış çıkarsa ya da şifre vermezse cihazınızı Kingroot ile 5-10 saniyede rootlayın. Kingroot uygulamasını kesinlikle yandaki resmi sitesinden indirin > <a target="_blank" href="http://www.kingrootindir.com">www.kingrootindir.com</a> Rootladıktan sonra tekrar InstHacker uygulamasını deneyin, sorunsuz çalışacaktır.</span>
+<span style="color:red;">Uygulamada Verilen Şifre Yanlış veya Uygulama Şifre Vermiyor diyenler OKUSUN:<br>
+Bu uygulama normalde rootsuz cihazlarda sorunsuz çalışıyor. Ama bazı telefonlar ve tabletlerde root olmadığı zaman ya şifre vermiyor, ya da verdiği şifre yanlış çıkıyor. Bu yüzden önce rootsuz deneyin. Eğer verdiği şifre yanlış çıkarsa ya da şifre vermezse cihazınızı Kingroot ile 5-10 saniyede rootlayın. Kingroot uygulamasını kesinlikle yandaki resmi sitesinden indirin > <a target="_blank" href="http://www.kingrootindir.com">www.kingrootindir.com</a> Rootladıktan sonra tekrar InstHacker uygulamasını deneyin, sorunsuz çalışacaktır.</span>
 
 
 Uyarı: Anlatım sadece hesabı başkasının eline geçen kişilerin hesabını geri alması ve benzeri amaçlar için paylaşılmaktadır. Bilgileri kötü amaçlar için kullanmanız sonucunda başınızı derde sokarsınız.
