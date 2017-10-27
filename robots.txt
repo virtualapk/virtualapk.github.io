@@ -4,7 +4,7 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: http://direkbaglanma.club/sitemap.xml
+Sitemap: http://mailhesabiac.xyz/sitemap.xml
 
 User-agent: MJ12bot
 Disallow: /
