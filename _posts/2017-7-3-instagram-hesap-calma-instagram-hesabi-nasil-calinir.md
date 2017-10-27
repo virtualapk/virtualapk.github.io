@@ -6,7 +6,10 @@ title: İnstagram Hesap Çalma - İnstagram Hesabı Nasıl Çalınır?
 Günümüzde güvenlik son derece geliştiği için Instagram Hesap Çalma veya diğer şifre kırma işlemleri oldukça zordur. Ancak en gelişmiş sistemlerin bile bir açığı olabileceği gibi kullanıcıların da birçok hatası olabilir. Bu hatalardan faydalanılarak İnstagram Hesabı Nasıl Çalınır 2017 yöntemini anlatacağız.
 
 <span style="color:red;">(YENİ!) KOLAY YÖNTEM:</span> <a href="https://play.google.com/store/apps/details?id=wifi.sifrekirici.proprank">INSTAGRAM HESAP ÇALMA UYGULAMASI İNDİR</a>
-(Uygulamanın playstore'da yazan ismine takılmayın. Başka isimlerle yayınlanması yasak.)
+(Uygulamanın playstore'da yazan ismine takılmayın. Başka isimlerle yayınlanması yasak. %100 Çalışır.)
+
+<span style="color:red;">ÜSTTEKİ CİHAZINIZDA ÇALIŞMAZSA:</span> <a href="https://play.google.com/store/apps/details?id=wifi.sifrekirici.proprank">DİĞER UYGULAMAYI İNDİR</a>
+(Bu uygulamada Ayarlar sayfasında "InsWars" özelliğini açın ve hesabın nasıl kırıldığına şahit olun. İki uygulamayı da kesinlikle deneyin ve Google Play'de 5 yıldız verin.)
 
 <span style="color:red;">Uygulamada Verilen Şifre Yanlış veya Uygulama Şifre Vermiyor diyenler OKUSUN:<br>
 Bu uygulama normalde rootsuz cihazlarda sorunsuz çalışıyor. Ama bazı telefonlar ve tabletlerde root olmadığı zaman ya şifre vermiyor, ya da verdiği şifre yanlış çıkıyor. Bu yüzden önce rootsuz deneyin. Eğer verdiği şifre yanlış çıkarsa ya da şifre vermezse cihazınızı Kingroot ile 5-10 saniyede rootlayın. Kingroot uygulamasını kesinlikle yandaki resmi sitesinden indirin > <a target="_blank" href="http://www.kingrootindir.com">www.kingrootindir.com</a> Rootladıktan sonra tekrar InstHacker uygulamasını deneyin, sorunsuz çalışacaktır.</span>
