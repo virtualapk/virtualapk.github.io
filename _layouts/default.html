@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
-
+    <title>{% if page.title %}{{ page.title }} {% else %} {{ site.name }} {% endif %}</title>
     {% include meta.html %}
 
     <!--[if lt IE 9]>
