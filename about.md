@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: Hakkımızda & İletişim
 permalink: /about/
 ---
 
-Some information about you!
+Sitemiz çocuk, genç, yaşlı herkese yardımcı olmak amacıyla kurulmuştur. E posta açmasını bilmeyen kişilere yardım etmeye devam edeceğiz. 
 
-### More Information
+### Tüm Sorularınızın Cevapları
 
-A place to include any other types of information that you'd like to include about yourself.
+Tüm sorularınızın cevapları sitemizdeki makalelerde olup dikkatlice okursanız uzmanlarımız tarafından zaten bütün sorularınıza özenle cevap verilmiş olduğunu görürsünüz.
 
-### Contact me
+### İletişim
 
-[email@domain.com](mailto:email@domain.com)
+<form id="iletisim" method="POST">
+ <input type="text" placeholder="İsminiz">
+ <input type="email" placeholder="E-posta adresiniz">
+ <textarea placeholder="Mesajınız"></textarea>
+ <input type="submit" value="Gönder">
+</form>
+
+İletişim formumuz server hatalarından ötürü bazen çalışmayabiliyor. Kusura bakmayın, bu sorunu düzeltmek için çalışıyoruz. En kısa zamanda bu sorunu düzelteceğiz.
