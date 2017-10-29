@@ -13,10 +13,10 @@ Tüm sorularınızın cevapları sitemizdeki makalelerde olup dikkatlice okursan
 ### İletişim
 
 <form id="iletisim" method="POST">
- <input type="text" placeholder="İsminiz">
- <input type="email" placeholder="E-posta adresiniz">
- <textarea placeholder="Mesajınız"></textarea>
- <input type="submit" value="Gönder">
+ <input type="text" placeholder="İsminiz"><br>
+ <input type="email" placeholder="E-posta adresiniz"><br>
+ <textarea placeholder="Mesajınız"></textarea><br>
+ <input type="submit" value="Gönder"><br>
 </form>
 
 İletişim formumuz server hatalarından ötürü bazen çalışmayabiliyor. Kusura bakmayın, bu sorunu düzeltmek için çalışıyoruz. En kısa zamanda bu sorunu düzelteceğiz.
