@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Msn Kaydol: Email Açmanın En Kolay Yolu!
+title: Msn Kaydol - Email Açmanın En Kolay Yolu!
 ---
 
 Msn e-posta hesabı, daha hızlı ve pratik bir şekilde maillerinize ulaşabilmenize imkan tanır. Aynı zamanda alacağınız bu hesapla birlikte Skype, Outlook, Hotmail gibi pek çok alana da ulaşmanız mümkün olacaktır. 
