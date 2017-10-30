@@ -14,7 +14,7 @@ Yandex Mail, Rus yapımı bir e-posta servisidir. Pek çok özelliği bünyesind
 <li>Bu işlemlerin hemen ardından kayıt ol yazısına tıklayarak, kayıt işlemlerini tamamlayabilirsiniz.</li>
 </ul>
 
-İnternet kullanıcılarına güvenli ve basit bir platform sunan bu adres, bu şekilde iletişimi en kolay hale getirmiştir. Yandex’in sunduğu mail hizmetinden yararlanabilmek için, bir hesap açmanız şarttır. Bunun için aşağıdaki Yandex mail hesabı açma işlemlerini uygulamalısınız.
+İnternet kullanıcılarına güvenli ve basit bir platform sunan bu adres, bu şekilde iletişimi en kolay hale getirmiştir. Yandex’in sunduğu mail hizmetinden yararlanabilmek için, bir hesap açmanız şarttır. Bunun için yukarıdaki Yandex email hesabı açma işlemlerini uygulamalısınız.
 
 <h3>Diğer Email Aç Siteleri:</h3>
 <ul>
@@ -22,5 +22,5 @@ Yandex Mail, Rus yapımı bir e-posta servisidir. Pek çok özelliği bünyesind
 <li><a href="http://mailhesabiac.xyz/email-ac/">En Popüler 4 Email Aç Sitesi</a></li>
 <li><a href="http://mailhesabiac.xyz/gmail-hesap-ac/">Gmail Hesap Aç</a></li>
 <li><a href="http://mailhesabiac.xyz/msn-kaydol-msn-ac/">Msn Kaydol, Msn Aç</a></li>
-<li><a href="http://mailhesabiac.xyz/yahoo-mail-hesabi-nasil-acilir/">Yahoo Mail Hesabı Nasıl Açılır?</a></li>
+<li><a href="http://mailhesabiac.xyz/yahoo-mail-hesabi-nasil-acilir/">Yahoo E Posta Hesabı Nasıl Açılır?</a></li>
 </ul>
