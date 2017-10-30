@@ -7,7 +7,7 @@ Gmail, Google tarafından sunulan ücretsiz bir e-posta servisidir. Temelleri 1 
 
 <h2>Gmail Hesap Aç</h2>
 <ul>
-<li>Gmail hesabı açma için öncelikle resmi siteye giriş yapmanız gerekir.</li>
+<li>Gmail hesabı açmak için öncelikle <a rel="nofollow" target="_blank" href="https://gmail.com">gmail.com</a> resmi siteye giriş yapmanız gerekir.</li>
 <li>Hesap oluştur yazısına tıklayarak, hesap açma sayfasına giriş yapın.</li>
 <li>Burada karşınıza bir form gelecektir. Öncelikle ad-soyad alanını doldurmaya geçin. Hemen ardından kendiniz için benzersiz olan bir e-mail adı seçin. Kendiniz için seçtiğiniz e-mail zaten alınmışsa, Gmail bu konuda size alternatifler sunacaktır. Bunlara da göz atarak bir mail adresi oluşturabilirsiniz.</li> 
 <li>Mail adresinizin ne olacağına karar verdiyseniz, üçüncü aşama olarak şifrenizi oluşturmalısınız. Şifrenizin güçlü ve akılda kalıcı olması gerekir. Daha güvenilir bir hale gelmesi için, mailinizde kullanılan isimleri seçmemeye özen göstermelisiniz. </li>
