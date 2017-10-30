@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yandex EMail Hesabı Nasıl Açılır?
+title: Yandex Email Hesabı Nasıl Açılır?
 ---
 
 Yandex Mail, Rus yapımı bir e-posta servisidir. Pek çok özelliği bünyesinde bulunduran Yandex, mail özelliğini de diğer özellikleriyle aynı çatı altında toplamıştır. 
