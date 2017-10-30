@@ -20,6 +20,6 @@ Kullanıcılara hızlı ve güvenilir şekilde e-posta hizmeti veren bu servis, 
 <li><a href="http://mailhesabiac.xyz/gmail-hesap-ac/">Gmail Hesap Aç</a></li>
 <li><a href="http://mailhesabiac.xyz/msn-kaydol-msn-ac/">Msn Kaydol, Msn Aç</a></li>
 <li><a href="http://mailhesabiac.xyz/email-ac/">En Popüler 4 Email Açma Sitesi!</a></li>
-<li><a href="http://mailhesabiac.xyz/yandex-mail-hesabi-nasil-acilir/">Yandex Mail Hesabı Nasıl Açılır?</a></li>
-<li><a href="http://mailhesabiac.xyz/yahoo-mail-hesabi-nasil-acilir/">Yahoo Mail Hesabı Nasıl Açılır?</a></li>
+<li><a href="http://mailhesabiac.xyz/yandex-mail-hesabi-nasil-acilir/">Yandex Email Hesabı Nasıl Açılır?</a></li>
+<li><a href="http://mailhesabiac.xyz/yahoo-mail-hesabi-nasil-acilir/">Yahoo E Posta Hesabı Nasıl Açılır?</a></li>
 </ul>
