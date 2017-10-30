@@ -14,7 +14,7 @@ Msn e-posta hesabı, daha hızlı ve pratik bir şekilde maillerinize ulaşabilm
 <li>İşlemlerin sonunda güvenlik kodunu forma girmeniz gerekir. Bu güvenlik kodunu da girdikten sonra msn kaydolma işlemini bu şekilde tamamlamış olursunuz. </li>
 </ul>
 
-Haberleşme konusuna doğru bir çözüm getirmiş olan Microsoft, hızlı ve sorunsuz iletişimin adresi olmuş durumdadır. Tüm alanı tek hesapla yönetmek için, çok kısa zamanınızı alacak bir mail hesabı açmanız gerekir. Bunun için tek yapmanız gereken ise aşağıda belirtilen Msn kaydol adımlarını eksiksiz olarak uygulamaktır.
+Haberleşme konusuna doğru bir çözüm getirmiş olan Microsoft, hızlı ve sorunsuz iletişimin adresi olmuş durumdadır. Tüm alanı tek hesapla yönetmek için, çok kısa zamanınızı alacak bir mail hesabı açmanız gerekir. Bunun için tek yapmanız gereken ise yukarıda belirtilen Msn kaydol adımlarını eksiksiz olarak uygulamaktır.
 
 <h3>Diğer Email Aç Siteleri:</h3>
 <ul>
