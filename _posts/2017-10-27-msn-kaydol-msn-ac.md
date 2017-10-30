@@ -21,6 +21,6 @@ Haberleşme konusuna doğru bir çözüm getirmiş olan Microsoft, hızlı ve so
 <li><a href="http://mailhesabiac.xyz/hotmail-kaydol-hotmail-ac/">Hotmail Kaydol, Hotmail Aç</a></li>
 <li><a href="http://mailhesabiac.xyz/email-ac/">En Popüler 4 Email Aç Sitesi</a></li>
 <li><a href="http://mailhesabiac.xyz/gmail-hesap-ac/">Gmail Hesap Aç</a></li>
-<li><a href="http://mailhesabiac.xyz/yandex-mail-hesabi-nasil-acilir/">Yandex Mail Hesabı Nasıl Açılır?</a></li>
-<li><a href="http://mailhesabiac.xyz/yahoo-mail-hesabi-nasil-acilir/">Yahoo Mail Hesabı Nasıl Açılır?</a></li>
+<li><a href="http://mailhesabiac.xyz/yandex-mail-hesabi-nasil-acilir/">Yandex Email Hesabı Nasıl Açılır?</a></li>
+<li><a href="http://mailhesabiac.xyz/yahoo-mail-hesabi-nasil-acilir/">Yahoo E Posta Hesabı Nasıl Açılır?</a></li>
 </ul>
