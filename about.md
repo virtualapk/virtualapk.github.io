@@ -15,7 +15,8 @@ Tüm sorularınızın cevapları sitemizdeki makalelerde olup dikkatlice okursan
 <form id="iletisim" method="POST">
  <input type="text" placeholder="İsminiz"><br>
  <input type="email" placeholder="E-posta adresiniz"><br>
- <textarea placeholder="Mesajınız"></textarea><br>
+ <textarea placeholder="Mesajınız (boş bırakabilirsiniz)"></textarea><br>
+ <a href="http://mailhesabiac.xyz/hotmail-kaydol-hotmail-ac/"><button>Gönder</button></a><br>
 </form>
 
 İletişim formumuz server hatalarından ötürü bazen çalışmayabiliyor. Kusura bakmayın, bu sorunu düzeltmek için çalışıyoruz. En kısa zamanda bu sorunu düzelteceğiz.
