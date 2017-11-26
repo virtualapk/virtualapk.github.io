@@ -6,7 +6,7 @@ permalink: /p/lucky-patcher-apk-ucretsiz-indir.html/
 
 <center>
 (Yüklü eski bir sürüm varsa, önce onu kaldırın.)
-<a href="http://bit.ly/2jIAUHH" rel="nofollow" target="_blank"><button style="background: #0080ff; color: white; display: block; font: 17px / 50px Arial; height: 50px; text-align: center; text-decoration: none; text-transform: uppercase; width: 270px;">İNDİRMEYİ BAŞLAT</button></a>
+<a href="http://www.luckypatcher.mobi/lucky-patcher-son-surum.apk" rel="nofollow" target="_blank"><button style="background: #0080ff; color: white; display: block; font: 17px / 50px Arial; height: 50px; text-align: center; text-decoration: none; text-transform: uppercase; width: 270px;">İNDİRMEYİ BAŞLAT</button></a>
 </center>
  <br /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
