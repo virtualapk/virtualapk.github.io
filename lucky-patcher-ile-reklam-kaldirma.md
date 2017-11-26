@@ -9,6 +9,16 @@ Artık istediğiniz herhangi bir uygulamadan veya oyundan reklamları kaldırmak
 Sadece, Android için üretmiş olduğumuz Lucky Patcher ismindeki küçük bir araca ihtiyacınız var.
 Uygulamayı kullanmak çok kolay.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- KingBaglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4590880399"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <b>Lucky Patcher ile Oyunlardaki Reklamları Kaldırmak İçin:</b><br /><br />
 Adım 1 :
