@@ -5,8 +5,23 @@ permalink: /p/lucky-patcher-apk-ucretsiz-indir.html
 ---
 
 <center>
+Adı: Lucky Patcher<br />
+Geliştiren: NetBew<br />
+Versiyon: 6.4.6 (En son)<br />
+Son Güncelleme: 26 Kasım 2017<br />
+Boyut: 7,33 MB<br />
 (Yüklü eski bir sürüm varsa, önce onu kaldırın.)
-<a href="http://www.luckypatcher.mobi/lucky-patcher-son-surum.apk" rel="nofollow" target="_blank"><button style="background: #0080ff; color: white; display: block; font: 17px / 50px Arial; height: 50px; text-align: center; text-decoration: none; text-transform: uppercase; width: 270px;">İNDİRMEYİ BAŞLAT</button></a>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- KingBaglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4590880399"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<a href="http://www.luckypatcher.mobi/lucky-patcher-son-surum.apk" rel="nofollow" target="_blank">İNDİRMEYİ BAŞLAT</a>
 </center>
  <br /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
