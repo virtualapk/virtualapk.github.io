@@ -4,7 +4,7 @@ title: Lucky Patcher - Sık Sorulan Sorular
 permalink: /2017/01/lucky-patcher-apk.html
 ---
 
-Lucky Patcher Sık Sorulan Sorulara cevaplar... Önce kısa bir girizgâh yapalım. Uygulamamızı sorunsuz kullanmanız için cihazınızı rootlamanız gerekiyor mu? Eğer cihazınızı root'larsanız yüz binlerce uygulamada kullanabilirsiniz. Root'lamazsanız çok az sayıda uygulama ve oyunda çalışır.<br />
+Lucky Patcher Sık Sorulan Sorulara cevaplar... Önce kısa bir girizgâh yapalım. Uygulamamızı sorunsuz kullanmanız için cihazınızı rootlamanız gerekiyor mu? Evet, çünkü cihazınızı root'larsanız yüz binlerce uygulamada sorunsuz kullanabilirsiniz. Root'lamazsanız az sayıda uygulama ve oyunda çalışır.<br />
 <br /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
@@ -17,7 +17,7 @@ Lucky Patcher Sık Sorulan Sorulara cevaplar... Önce kısa bir girizgâh yapal�
 </script>
       <br />
 <b>Bazı Uygulamalarda Hata Alıyorum, Neden?</b><br />
-Lucky Patcher bazı uygulamalarda hiç çalışmaz. Sebebini biz de bilmiyoruz. Ancak daha önce çalışan bir uygulamanızda, çalışmıyorsa o zaman problem var demektir. Büyük ihtimalle uygulamanın "düzenlemiş olduğunuz apk sürümü" ile şu anki "yeni apk sürümü" farklı versiyonlar olduklarından dolayı sıfırdan tekrar "düzenlenmiş apk" yapmanız gerekmektedir.<br />
+Lucky Patcher bazı uygulamalarda ve oyunlarda; oluşturulan güvenlik duvarı sebebiyle çalışmaz. Uzmanlarımız bu konuyla ilgili geliştirmelere devam ediyor. Unutmadan, cihazınızı Kingroot uygulamasıyla rootlarsanız tüm oyunlarda çalışma oranını arttırırsınız. İndirme linki: <a href="http://www.kingrootindir.com">KingRoot İndir</a> Sadece yandaki resmi siteden indirmenizi tavsiye ediyoruz. Diğer sitelere asla güvenmeyin. Diğer bir konuya gelecek olursak: Daha önce çalışan bir APK'da, çalışmıyorsa o zaman problem var demektir. Büyük ihtimalle APK'nın "düzenlemiş olduğunuz apk sürümü" ile şu anki "yeni apk sürümü" farklı versiyonlar olduklarından dolayı sıfırdan tekrar "düzenlenmiş apk" yapmanız gerekmektedir. Kısacası düzenlediğiniz uygulamanın yeni bir sürümü var demektir, onu indirin. Sonra tekrar düzenlenmiş apk oluşturun.<br />
 <br />
 <b>
 Google Chrome "Bu Dosya Zararlı Olabilir" Diyor, Neden?</b><br />
