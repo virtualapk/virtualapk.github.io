@@ -21,6 +21,7 @@ Boyut: 7,33 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+     
 <a href="http://www.luckypatcher.mobi/lucky-patcher-son-surum.apk" rel="nofollow" target="_blank">İNDİRMEYİ BAŞLAT</a>
 </center>
  <br /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
