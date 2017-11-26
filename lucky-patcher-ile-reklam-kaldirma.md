@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lucky Patcher İle APK'lardan Reklamlar Nasıl Kaldırılır?
-permalink: /lucky-patcher-ile-reklam-kaldirma/
+permalink: /lucky-patcher-ile-reklamlar-nasil-kaldirilir.html
 ---
 
 Uygulamalarınızda bulunan sıkıcı reklamlardan bıktınız mı?
