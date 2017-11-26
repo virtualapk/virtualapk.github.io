@@ -67,8 +67,12 @@ Tebrik ederiz! Reklamları uygulamadan başarıyla çıkardınız.
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
        
-
 <h3>MENÜ:</h3>
 <ul>
 <li><a href="http://www.luckypatcher.mobi">Lucky Patcher (Ana Sayfa)</a></li>
+<li><a href="http://www.luckypatcher.mobi/p/lucky-patcher-apk-ucretsiz-indir.html/">Lucky Patcher İndir</a></li>
+<li><a href="<a href="http://www.luckypatcher.mobi/2017/01/lucky-patcher-apk.html"><span style="color: #cc0000;">Lucky Patcher - Sık Sorulan Sorular</span></a>
+</a></li>
+<li><a href="http://www.luckypatcher.mobi/lucky-patcher-ile-reklamlar-nasil-kaldirilir.html"><span style="color: #cc0000;">Lucky Patcher İle APK'lardan Reklamlar Nasıl Kaldırılır?</span></a>
+</li>
 </ul>
