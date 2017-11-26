@@ -7,9 +7,9 @@ Uygulamalarınızda bulunan sıkıcı reklamlardan bıktınız mı?
 Artık istediğiniz herhangi bir uygulamadan veya oyundan reklamları kaldırmak tek tıkla mümkün!
 Sadece, Android için üretmiş olduğumuz Lucky Patcher ismindeki küçük bir araca ihtiyacınız var.
 Uygulamayı kullanmak çok kolay.
-<br /><br />
-<b>Lucky Patcher ile Oyunlardaki Reklamları Kaldırmak İçin:</b><br /><br />
 
+
+<b>Lucky Patcher ile Oyunlardaki Reklamları Kaldırmak İçin:</b><br /><br />
 Adım 1 :
 Reklam kaldırma işlemini başlatmak için ilk olarak Android cihazınızı kingroot uygulaması yardımıyla rootlayın.
 Başlamak için cihazınızı rootlamanız gerekir. Internet'te birçok kaynak var; ayrıca bir android cihazının root dizini hakkında da youtube.com üzerinden öğretici videoları izleyebilirsiniz. Ancak unutmayın, root süreci farklı cihazlarda farklı olabilir. Yani root yapma eğitimi için telefon modelinizle arama yapın.
