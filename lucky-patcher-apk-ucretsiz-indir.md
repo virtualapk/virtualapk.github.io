@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lucky Patcher APK İndirmeyi Başlat
-permalink: /p/lucky-patcher-apk-ucretsiz-indir.html/
+permalink: /p/lucky-patcher-apk-ucretsiz-indir.html
 ---
 
 <center>
