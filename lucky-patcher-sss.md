@@ -18,6 +18,16 @@ Lucky Patcher Sık Sorulan Sorulara cevaplar... Önce kısa bir girizgâh yapal�
       <br />
 <b>Bazı Uygulamalarda Hata Alıyorum, Neden?</b><br />
 Lucky Patcher bazı uygulamalarda ve oyunlarda; oluşturulan güvenlik duvarı sebebiyle çalışmaz. Uzmanlarımız bu konuyla ilgili geliştirmelere devam ediyor. Unutmadan, cihazınızı Kingroot uygulamasıyla rootlarsanız tüm oyunlarda çalışma oranını arttırırsınız. İndirme linki: <a href="http://www.kingrootindir.com">KingRoot İndir</a> Sadece yandaki resmi siteden indirmenizi tavsiye ediyoruz. Diğer sitelere asla güvenmeyin. Diğer bir konuya gelecek olursak: Daha önce çalışan bir APK'da, çalışmıyorsa o zaman problem var demektir. Büyük ihtimalle APK'nın "düzenlemiş olduğunuz apk sürümü" ile şu anki "yeni apk sürümü" farklı versiyonlar olduklarından dolayı sıfırdan tekrar "düzenlenmiş apk" yapmanız gerekmektedir. Kısacası düzenlediğiniz uygulamanın yeni bir sürümü var demektir, onu indirin. Sonra tekrar düzenlenmiş apk oluşturun.<br />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Esneking -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4659442398"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <br />
 <b>
 Google Chrome "Bu Dosya Zararlı Olabilir" Diyor, Neden?</b><br />
@@ -36,7 +46,7 @@ Bluestacks programını indirerek bilgisayarınızda rahatlıkla kullanabilirsin
 <b>Neden Uygulamanız Bu Kadar Çok Güncelleme Alıyor?</b><br />
 Yama yaptığınız oyunlar ve uygulamalarda sürekli güncellendiği için bizim android aracımız eski kalıyor. Ve daha az uygulamada kullanılmaya başlıyor. Bu yüzden sürekli güncellemek zorundayız.<br />
 <br />
-Diğer sorularınızı aşağıdaki yorum panelinden bizlere sorabilirsiniz.</p>
+Diğer sorularınızı aşağıdaki yorum panelinden bizlere sorabilirsiniz.
 
 <h3>MENÜ:</h3>
 <ul>
