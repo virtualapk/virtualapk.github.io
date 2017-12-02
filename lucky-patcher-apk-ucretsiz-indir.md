@@ -22,7 +22,7 @@ Boyut: 7,33 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
      <br>
-<a href="http://www.luckypatcher.mobi/lucky-patcher-son-surum.apk" rel="nofollow" target="_blank">İNDİR</a>
+<a href="http://www.luckypatcher.mobi/2017/01/lucky-patcher-apk.html" target="_blank">LUCKY PATCHER İNDİR & SSS</a>
 </center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
