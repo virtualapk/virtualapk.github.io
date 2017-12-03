@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SnapTube Nasıl Kullanılır? Nasıl Video İndirilir?
-permalink: /snaptube-apk-indir
+permalink: /snaptube-nasil-kullanilir
 ---
 
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
