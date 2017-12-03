@@ -9,17 +9,14 @@ Adı: SnapTube<br />
 Versiyon: 5.0.0 (En son)<br />
 Son Güncelleme: 04 Aralık 2017<br />
 Boyut: 9,04 MB<br />
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+<center>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-     <br>
+</center>
 <a href="http://www.snaptubeindir.com/snaptube-4-26-0-9624.apk" target="_blank">İNDİR</a>
 </center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
