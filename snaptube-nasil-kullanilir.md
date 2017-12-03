@@ -17,7 +17,7 @@ permalink: /snaptube-nasil-kullanilir
 <ol>
 <li>SnapTube uygulamasını sitemizden indirin. İndirdiğiniz APK'yı açın. Bilinmeyen kaynaklara izin ver seçeneği çıkarsa işaretleyin ve Tamam'a basın.</li>
 <li>Ardından SnapTube logosuna tıklayarak çalıştırın. Otomatik olarak kurulum tamamlanacaktır. Uygulamayı açın.</li>
-<li>Açtığınız zaman karşınıza Youtube ekranı açılacaktır. İstediğiniz videoyu arama kısmında aratın. Karşınıza sonuçlar gelecektir. Hangi videoyu indirmek isterseniz üzerine tıklayın. İster videoyu izleyin, isterseniz de İNDİR tuşuna basarak anında indirin.</li>
+<li>Açtığınız zaman karşınıza birçok video arama ekranı çıkacak. İster facebook, ister youtube üzerinden istediğiniz videoyu arama kısmında aratın. Karşınıza sonuçlar gelecektir. Hangi videoyu indirmek isterseniz üzerine tıklayın. İster videoyu reklamsız izleyin, isterseniz de İNDİR tuşuna basarak anında indirin.</li>
 </ol>
 
-Snaptube Youtube Downloader HD uygulamalar arasında dünyanın 1 numarası haline geldi. Siz de Youtube'dan istediğiniz video, şarkı veya filmi indirmek istiyorsanız hemen uygulamamızı deneyin!
+Snaptube Facebook ve Youtube Downloader HD uygulamalar arasında dünyanın 1 numarası haline geldi. Siz de Youtube'dan istediğiniz video, şarkı veya filmi indirmek istiyorsanız hemen uygulamamızı deneyin!
