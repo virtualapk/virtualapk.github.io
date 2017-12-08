@@ -4,7 +4,7 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: http://www.snaptubeindir.com/sitemap.xml
+Sitemap: http://plus.apkindir.site/sitemap.xml
 
 User-agent: MJ12bot
 Disallow: /
