@@ -6,6 +6,17 @@ permalink: /about/
 
 Sitemiz hiçbir maddi çıkar olmadan, tamamen ücretsiz olarak sadece kullanıcılarımıza yardımcı olmak amacıyla kurulmuştur. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- KingBaglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4590880399"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### İletişim
 
 <form id="iletisim" method="POST">
