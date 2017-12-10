@@ -42,5 +42,8 @@ Boyut: 36,8 MB<br />
 <h2>WhatsApp Plus: Şimdi Tamamen Türkçe</h2>
 Türkçe sitemizin de yayın hayatına başlamasıyla WhatsApp Plus Apk'nın artık tamamen Türkçe olduğunu siz değerli kullanıcılarımıza belirtmek isteriz. Normal WP'ye ek olarak onlarca özelliği içerisinde barındıran uygulamamızın nasıl kullanılacağıyla ilgili detaylı bilgiyi de web sitemizin diğer sayfalarından öğrenebilirsiniz.
 
+<h2>WhatsApp Plus Kurulum</h2>
+Sitemizden indirmiş olduğunuz .apk uzantılı dosyayı açın. "Bilinmeyen kaynaklara izin ver" diye bir uyarı çıkarsa, cihazınızın Ayarlar sayfasına girin ve izin verin. Kurulum otomatik tamamlanacak ve uygulamamızın logosu cihazınızın ana ekranına gelecektir. Hemen kullanmaya başlayabilirsiniz. Sorun yaşadığınız yerleri sitemizin iletişim sayfasından bize sorabilirsiniz.
+
 <h2>WhatsApp Plus ile Her Türlü Dosyayı Paylaşın!</h2>
 WhatsApp Plus Apk indirdikten sonra arkadaşlarınızla dilediğiniz dosyayı paylaşın. Hem de normal WP'ye ek olarak 5 kat daha fazla dosya gönderim boyutu sınırınız var. İstediğiniz ses dosyası, resim, video ve hatta e-kitap dahil tüm dosya içeriklerini 50 MB'a kadar gönderebilirsiniz.
