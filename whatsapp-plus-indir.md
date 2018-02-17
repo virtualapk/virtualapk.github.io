@@ -5,12 +5,12 @@ permalink: /whatsapp-plus-indir
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
+<!-- Hoturum Ac Esnek -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+     data-ad-slot="5130793994"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -20,21 +20,23 @@ Versiyon: 6.40 (En son)<br />
 Son Güncelleme: 10 Aralık 2017<br />
 Boyut: 36,8 MB<br />
 <center>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 200 90 -->
-<ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Baglanti20090 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
 <a rel="nofollow" href="http://down-s1.official-plus.com/WhatsApp-Plus-v6.30@Official-Plus.com.apk" target="_blank">İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
+<!-- 336 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:336px;height:280px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+     data-ad-slot="9585734309"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
