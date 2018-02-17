@@ -5,7 +5,7 @@ permalink: /whatsapp-plus-indir
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Hoturum Ac Esnek -->
+<!-- Esnek -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
