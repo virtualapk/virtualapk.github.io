@@ -16,9 +16,9 @@ permalink: /whatsapp-plus-indir
 </script>
 <center>
 Adı: WhatsApp Plus Apk İndir<br />
-Versiyon: 6.40 (En son)<br />
-Son Güncelleme: 10 Aralık 2017<br />
-Boyut: 36,8 MB<br />
+Versiyon: 6.41 (En son)<br />
+Son Güncelleme: 17 Şubat 2018<br />
+Boyut: 34,8 MB<br />
 <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Baglanti20090 -->
@@ -30,7 +30,8 @@ Boyut: 36,8 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a rel="nofollow" href="http://down-s1.official-plus.com/WhatsApp-Plus-v6.30@Official-Plus.com.apk" target="_blank">İndir</a>
+<a rel="nofollow" href="http://plus.apkindir.site/WhatsappPlusV610.zip" target="_blank">.zip Olarak İndir (21MB)</a><br>
+<a rel="nofollow" href="http://down-s1.official-plus.com/WhatsApp-Plus-v6.30@Official-Plus.com.apk" target="_blank">.apk Olarak İndir (34MB)</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
