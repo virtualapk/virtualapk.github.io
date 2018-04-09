@@ -4,8 +4,6 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: http://plus.apkindir.site/sitemap.xml
-
 User-agent: MJ12bot
 Disallow: /
 
