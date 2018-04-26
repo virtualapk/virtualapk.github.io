@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GBWhatsapp Apk Download for Android (2018 Latest Version)
+title: GBWhatsapp Apk Download for Android
 permalink: /gb-whatsapp-download
 ---
 
