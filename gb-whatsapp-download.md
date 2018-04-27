@@ -17,7 +17,7 @@ permalink: /gb-whatsapp-download
 <center>
 <a href="https://gbwhatsapp2018.com/"><img src="https://gbwhatsapp2018.com/wplus.png" alt="gb whatsapp" title="gbwhatsapp" /></a><br />
 Name: GB Whatsapp Apk Download<br />
-Version: v6.40 (Latest)<br />
+Version: v7.10 (Latest)<br />
 Update: 26.04.2018<br />
 Virus Total: Clean ✔<br />
 Size: 35,1 MB<br />
