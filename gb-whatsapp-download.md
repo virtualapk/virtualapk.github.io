@@ -32,7 +32,7 @@ Size: 35,1 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a rel="nofollow" href="https://www.gbmods.co/wp-content/uploads/Themes/GBWAv6.30-2.18.46@atnfas_hoak.apk" target="_blank">.APK Download</a><br>
+<a rel="nofollow" href="https://bit.ly/2HqwRIP" target="_blank">.APK Download</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
