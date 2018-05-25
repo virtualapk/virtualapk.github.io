@@ -15,7 +15,7 @@ permalink: /yowhatsapp-apk-download
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <center>
-<img src="https://yowhatsapp.plusapkz.com/yowhatsapp.png" width="%50" alt="yowp" title="yo whatsapp" /><br />
+<img src="https://yowhatsapp.plusapkz.com/yowhatsapp.png" width="145" height="145" alt="yowp" title="yo whatsapp" /><br />
 Name: YOWhatsapp<br />
 Version: v2018 (Latest)<br />
 Update: 14.05.2018<br />
