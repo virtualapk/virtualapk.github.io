@@ -43,7 +43,7 @@ Size: 44 MB<br />
 </script>
 </center>
   <br>
-  <span style="color:red">If you want to use 2 WhatsApp on your phone, try the <a href="https://gbwhatsapp2018.com/">GBWhatsapp APK. (click)</a></span>
+  <span style="color:red">If you want to use 2 WhatsApp on your phone, try the <a target="_blank" href="https://gbwhatsapp2018.com/">GBWhatsapp APK. (click)</a></span>
 <h2>YOWhatsApp How to Install?</h2>
 Here we have the step by step guide that will help you understand how to install the yowhatsapp APK.<br>
 <ul><li>Assure that you uninstall the original WhatsApp from your phone because two WhatsApp accounts cannot run from the same number.</li>
