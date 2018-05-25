@@ -4,6 +4,22 @@ title: YOWhatsApp Apk Download for Android
 permalink: /yowhatsapp-apk-download
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Esnek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="5130793994"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<center>
+<img src="https://yowhatsapp.plusapkz.com/yowhatsapp.png" width="%50" alt="yowp" title="yo whatsapp" /><br />
+Name: YOWhatsapp<br />
+Version: v2018 (Latest)<br />
+Update: 14.05.2018<br />
+Size: 44 MB<br />
 <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Baglanti20090 -->
@@ -14,36 +30,20 @@ permalink: /yowhatsapp-apk-download
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  </center>
-<center>
-<img src="https://yowhatsapp.plusapkz.com/yowhatsapp.png" width="%50" alt="yowp" title="yo whatsapp" /><br />
-Name: YOWhatsapp<br />
-Version: v2018 (Latest)<br />
-Update: 14.05.2018<br />
-Size: 44 MB<br />
+</center>
+<a target="_blank" rel="nofollow" href="http://www.mediafire.com/file/a93c63n5cd5a09a/YoWAV7.50_com.yowa_Yousef_Al_Basha.apk">Download</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esneking -->
+<!-- 336 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:336px;height:280px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4659442398"
-     data-ad-format="auto"></ins>
+     data-ad-slot="9585734309"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<a target="_blank" rel="nofollow" href="http://www.mediafire.com/file/a93c63n5cd5a09a/YoWAV7.50_com.yowa_Yousef_Al_Basha.apk">Download</a></center>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</center>
   <br>
-  <span style="color:blue">If you want to use 2 WhatsApp on your phone, try the <a href="https://gbwhatsapp2018.com/">GBWhatsapp APK. (click to download)</a></span>
+  <span style="color:red">If you want to use 2 WhatsApp on your phone, try the <a href="https://gbwhatsapp2018.com/">GBWhatsapp APK. (click)</a></span>
 <h2>YOWhatsApp How to Install?</h2>
 Here we have the step by step guide that will help you understand how to install the yowhatsapp APK.<br>
 <ul><li>Assure that you uninstall the original WhatsApp from your phone because two WhatsApp accounts cannot run from the same number.</li>
