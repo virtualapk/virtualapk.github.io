@@ -31,7 +31,7 @@ Size: 44 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a target="_blank" rel="nofollow" href="http://www.mediafire.com/file/a93c63n5cd5a09a/YoWAV7.50_com.yowa_Yousef_Al_Basha.apk">Download</a>
+<a target="_blank" rel="nofollow" href="http://www.mediafire.com/file/a93c63n5cd5a09a/YoWAV7.50_com.yowa_Yousef_Al_Basha.apk">Download</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
