@@ -29,7 +29,7 @@ Size: 32.2 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="http://download.virtualdj.com/install_virtualdj_2018_b4592_pc.msi">Download</a><br>
+<a href="http://download.virtualdj.com/install_virtualdj_2018_b4592_pc.msi">Download for PC</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
@@ -41,6 +41,8 @@ Size: 32.2 MB<br />
 </script>
 </center>
   <br>
+  <a href="http://download.virtualdj.com/install_virtualdj_2018_b4592_mac.pkg">Download for MAC</a><br>
+
 <h2>How to Install?</h2>
 The program can record the obtained results in any music format, thanks to which it is guaranteed to
 share the newly created tracks on the Internet with both real listeners and those who have not heard
